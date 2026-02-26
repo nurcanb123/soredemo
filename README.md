@@ -1,2 +1,1 @@
-# sasdsa
 R kodları 
